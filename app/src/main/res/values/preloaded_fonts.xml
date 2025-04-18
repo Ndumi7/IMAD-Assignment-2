@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abel</item>
+        <item>@font/adlam_display</item>
+        <item>@font/bagel_fat_one</item>
+        <item>@font/baloo</item>
+        <item>@font/chewy</item>
+        <item>@font/cinzel_bold</item>
+        <item>@font/coiny</item>
+        <item>@font/cormorant_garamond_light</item>
+        <item>@font/creepster</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/gloria_hallelujah</item>
+        <item>@font/knewave</item>
+        <item>@font/libre_baskerville</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/modak</item>
+        <item>@font/playfair_display</item>
+        <item>@font/poppins_bold</item>
+        <item>@font/prata</item>
+        <item>@font/roboto_bold</item>
+        <item>@font/roboto_flex</item>
+        <item>@font/roboto_thin</item>
+        <item>@font/rock_salt</item>
+    </array>
+</resources>
