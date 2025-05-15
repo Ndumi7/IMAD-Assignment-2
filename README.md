@@ -32,6 +32,14 @@ reviews.
 
 ---
 
+## ⚙️ Setup
+To run this app locally:
+1.	Clone the repository:
+git clone <your-repository-url>
+2.	Open the project in Android Studio.
+3.	Build and run the app on an emulator or device.
+
+
 ## 🎨 Design Considerations
 
 - **Simplicity:** Focused on clean typography and straightforward interaction.
