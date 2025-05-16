@@ -5,7 +5,7 @@ reviews.
 ---
 
 ## Project Repository
-You can find the source code for this project on GitHub: [IMAD5112-Assignment-1] (https://github.com/Ndumi7/IMAD5112-Assignment-1.git)
+You can find the source code for this project on GitHub:
 https://github.com/Ndumi7/IMAD-Assignment-2.git
 ---
 
