@@ -4,6 +4,17 @@ Quiztory is a simple flashcard-based quiz app designed to help users learn histo
 reviews.
 ---
 
+## Project Repository
+You can find the source code for this project on GitHub: [IMAD5112-Assignment-1] (https://github.com/Ndumi7/IMAD5112-Assignment-1.git)
+https://github.com/Ndumi7/IMAD-Assignment-2.git
+---
+
+## Presentation link
+https://youtu.be/nKRU7fVp2Ko
+
+A Simple and fun quiz app that tests your knowledge.
+---
+
 ## 🎯 Features
 
 - ✅ True/False flashcard-style questions
